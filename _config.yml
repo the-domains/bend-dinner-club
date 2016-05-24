@@ -1,0 +1,28 @@
+name: Bend Dinner Club
+favicon: null
+layout_spectrum: 0.3555713817477226
+typography_spectrum: 0.8428853303194046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.22870445856824517
+  lightness: 0.6700016709510237
+  saturation: 0.12991138524375856
+  rhythmicContrast: 0.24655432137660682
+purpose: []
