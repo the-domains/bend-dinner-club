@@ -2,12 +2,13 @@ name: Bend Dinner Club
 favicon: null
 layout_spectrum: 0.3555713817477226
 typography_spectrum: 0.8428853303194046
+title: Bend Dinner Club
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-7512986-2
   facebook: null
   twitter: null
 opengraph:
